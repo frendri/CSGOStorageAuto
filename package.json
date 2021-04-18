@@ -1,0 +1,26 @@
+{
+  "name": "CSGO-Storage-Unit",
+  "version": "1.0.0",
+  "description": "Repository for automatically updating storage units in csgo",
+  "main": "index.js",
+  "dependencies": {
+    "globaloffensive": "^2.1.0",
+    "prompt": "^1.1.0",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "steam-totp": "^2.1.1",
+    "steam-user": "^4.19.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrew3019/CSGO-Storage-Unit.git"
+  },
+  "keywords": [],
+  "author": "dan.ternovoi@gmail.com",
+  "license": "ISC"
+}
