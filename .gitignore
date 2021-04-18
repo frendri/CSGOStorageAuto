@@ -4,6 +4,7 @@ config.js
 .vs/slnx.sqlite
 .vs/ProjectSettings.json
 .vs/csgo-supply-unit-automation/v16/.suo
+node_modules
 node_modules/.bin/lzma.js
 node_modules/.bin/lzma.js.cmd
 node_modules/.bin/pbjs
